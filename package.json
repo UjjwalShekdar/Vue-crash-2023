@@ -5,10 +5,12 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "backend": "json-server --watch db.json --port 3000"
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "json-server": "^0.17.3",
     "vue": "^3.2.13"
   },
   "devDependencies": {
@@ -18,6 +20,7 @@
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "volar-service-vetur": "latest"
   }
 }

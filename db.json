@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "tuesday",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "PTM",
+      "day": "wednesday",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Interview",
+      "day": "thursday",
+      "reminder": true
+    },
+    {
+      "id": 5574,
+      "text": "Todo List",
+      "day": "Wednesday",
+      "reminder": false
+    }
+  ]
+}
