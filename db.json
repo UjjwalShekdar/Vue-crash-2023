@@ -23,6 +23,12 @@
       "text": "Todo List",
       "day": "Wednesday",
       "reminder": false
+    },
+    {
+      "text": "build a Logic",
+      "day": "on Thursday till 12:30pm",
+      "reminder": false,
+      "id": 5575
     }
   ]
 }
